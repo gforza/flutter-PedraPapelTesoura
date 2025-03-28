@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+Jogo do tipo pedra-papel-tesoura (jokenpo). Nesse jogo o usuário vai disputar contra o aplicativo e haverá um placar indicando quem fez mais pontos até determinado momento.
 
-This project is a starting point for a Flutter application.
+Gabriel Forza Vago - 12317003 
+Thulio Kuster - 22217015
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![pedrapapeltesoura](https://github.com/user-attachments/assets/4411102e-510e-4eba-adc2-2d138e9ae36f)
